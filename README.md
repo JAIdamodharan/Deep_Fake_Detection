@@ -9,28 +9,6 @@
 
 **Team:** Techie Squad  
 **Project Status:** Production Ready ✅
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Model Architecture](#model-architecture)
-- [Screenshots](#screenshots)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Training Pipeline](#training-pipeline)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Browser Plugin Integration](#browser-plugin-integration)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## 🎯 Overview
