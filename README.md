@@ -87,7 +87,6 @@ Output: [Real, Fake] with Confidence Scores
 
 ### Confidence Distribution
 <img width="928" height="789" alt="image" src="https://github.com/user-attachments/assets/5128d8d9-99d6-490a-9f32-be2626e9e62f" />
-<img width="1490" height="989" alt="image" src="https://github.com/user-attachments/assets/bb196f70-6936-4f7c-9031-76e99d857e87" />
 
 *Analysis of model confidence across correct and incorrect predictions*
 
