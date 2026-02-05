@@ -7,8 +7,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Accuracy](https://img.shields.io/badge/Accuracy-93%25+-brightgreen.svg)]()
 
-**Team:** Techie Squad  
-**Project Status:** Production Ready ✅
 ---
 
 ## 🎯 Overview
